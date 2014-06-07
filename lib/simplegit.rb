@@ -18,3 +18,5 @@ class SimpleGit
     end
   
 end
+
+line for pull
