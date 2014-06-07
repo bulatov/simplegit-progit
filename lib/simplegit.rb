@@ -18,3 +18,6 @@ class SimpleGit
     end
   
 end
+
+
+another line to conflict
