@@ -22,3 +22,7 @@ end
 line for pull
 another line to conflict with small change
 // 2 lines were merged with some addition on 2nd line
+
+
+
+hi hi
