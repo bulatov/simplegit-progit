@@ -19,5 +19,6 @@ class SimpleGit
   
 end
 
-
-another line to conflict
+line for pull
+another line to conflict with small change
+// 2 lines were merged with some addition on 2nd line
