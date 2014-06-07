@@ -28,3 +28,5 @@ another line to conflict with small change
 hi hi
 hi hi 
 lets delete conf1,2 and confl1,2
+
+rt
