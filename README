@@ -18,6 +18,8 @@ local1
 local2
 
 
-changes on branch1
+asdasd<<<<<<< .mine
 
-small rem
+=======
+iouio
+>>>>>>> .theirs
